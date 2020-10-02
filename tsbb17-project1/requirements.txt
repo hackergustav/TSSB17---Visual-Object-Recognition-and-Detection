@@ -1,0 +1,7 @@
+kornia
+torch
+tqdm
+torchvision
+numpy
+scikit_learn
+matplotlib
